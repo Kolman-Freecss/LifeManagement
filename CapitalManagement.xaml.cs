@@ -16,11 +16,11 @@ using System.Windows.Shapes;
 namespace LifeManagement
 {
     /// <summary>
-    /// Lógica de interacción para MainWindow.xaml
+    /// Interaction logic for CapitalManagement.xaml
     /// </summary>
-    public partial class MainWindow : NavigationWindow
+    public partial class CapitalManagement : Page
     {
-        public MainWindow()
+        public CapitalManagement()
         {
             InitializeComponent();
         }
